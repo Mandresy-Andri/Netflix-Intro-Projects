@@ -20,12 +20,12 @@ Closer look into the project
 * Dependencies: Spring Boot, Spring Reactive Web.
 * APIs:
   * Weather
-    Weather in a city.
-    Weather at the ISS coordinates.
-    Print city and country based on ISS coordinates.
-    Print if ISS is not in a country.
+    * Weather in a city.
+    * Weather at the ISS coordinates.
+    * Print city and country based on ISS coordinates.
+    * Print if ISS is not in a country.
   * ISS
-    Returns the location of the ISS.
-    Integrates with Weather API to print weather and location name.
+    * Returns the location of the ISS.
+    * Integrates with Weather API to print weather and location name.
   * Crypto
-    Returns name, id, and price of input cryptocurrency.
+    * Returns name, id, and price of input cryptocurrency.
